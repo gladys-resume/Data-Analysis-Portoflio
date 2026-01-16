@@ -15,10 +15,15 @@ Onboarding Insights: examining hiring trends, demographics and retention
 ### 3. Key metrics
 This report answers several analytical questions, including:
   a. How many employees work in Hi-Tech, and how are they distributed across units and locations?
+  
   b. What employee qualifications and job statuses are most common?
+  
   c. Which business units offer the highest salary averages?
+  
   d. How does pay differ by qualification and location?
+  
   e. What does onboarding look like in terms of gender, age, and timing?
+  
   f. Which employees have stayed longest with the organisation?
 
 ### 4. Dataset Overview &  Methodology
@@ -30,11 +35,13 @@ The dataset includes records for employees working in different Hi-Tech offices,
                 employment status. The analysis also shows how many employees 
                 are present in each location and what qualifications are most common across the organisation. This helps management 
                 understand staffing strengths and where hiring gaps may exist.
+          
            b. **Pay Analysis:** Salary patterns were explored across units, qualification levels, and locations.  Average pay metrics were 
                 calculated to identify where employees earn the most and 
                whether education level or unit assignment influences compensation. The review also highlights the top five highest-paying 
                units, giving the organisation a clearer picture of cost 
                distribution within its workforce.
+           
            c. **Onboarding Insights:** Employee onboarding data shows a fairly balanced gender intake with 129 male employees and 124 
                 female employees. Age distribution analysis reveals the most 
                 represented age groups in the company, while onboarding trends highlight periods of high recruitment activity. The 
