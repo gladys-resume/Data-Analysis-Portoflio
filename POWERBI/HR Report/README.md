@@ -31,6 +31,7 @@ The dataset includes records for employees working in different Hi-Tech offices,
  Power Query enabled the removal of duplicates, null entries, empty spaces, and data type errors.
  Dimension tables were created for key variables such as qualification, job type, sex, status, and unit, ensuring relationships were properly defined for accurate analysis and data modeling.
  Interactive visuals, slicers, and page navigation buttons were added to make the dashboard user-friendly and allow stakeholders to explore insights from multiple angles. 
+          
            a. **Employee Overview:** This highlights the total number of staff and how they are grouped by unit, office location, and 
                 employment status. The analysis also shows how many employees 
                 are present in each location and what qualifications are most common across the organisation. This helps management 
