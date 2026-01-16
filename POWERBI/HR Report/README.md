@@ -1,7 +1,7 @@
 # Employee Insights Report - Hi-Tech Workforce Analysis (2018-2021)
 ## Industry: Corporate / Human Resources
 ## Tools: Power BI (Power Query, Data Modelling, DAX, Interactive Dashboards)
-## Data Source: Open employee dataset
+## Data Source: Open Employee Dataset
 
 ### 1. Introduction
 This project explores workforce trends within Hi-Tech by analysing staff records across multiple units and locations. The goal is to understand the organisation’s employee structure, salary distribution, hiring behaviour, and long-term retention patterns in order to support better HR planning and operational decisions.
